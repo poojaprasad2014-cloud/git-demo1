@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Main Branch</h1>
+      <h1>Branch1</h1>
     </>
   )
 }
